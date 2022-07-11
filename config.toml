@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hugo-test2-oj4l.onrender.com/'
 languageCode = 'en-us'
 title = 'Cool Static Site, Bro'
 theme = "ananke"
