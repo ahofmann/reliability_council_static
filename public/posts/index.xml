@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cool Static Site, Bro</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Cool Static Site, Bro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jun 2022 21:31:59 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post Weeeee</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 26 Jun 2022 21:31:59 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My second post</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Sun, 26 Jun 2022 21:31:59 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description>here is some language and stuff and an image</description>
+    </item>
+    
+  </channel>
+</rss>
