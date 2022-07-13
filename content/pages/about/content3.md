@@ -8,4 +8,4 @@ button: 'Contact Us'
 buttonLink: 'contact'
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+We're doing this because utility professionals need support from an organization that's focused on results and long-term investment. Reach out and we'll help you get started with the process of taking your benchmarking and analysis to the next level. 

@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Top Tier Benchmarking Data",
+    "description": "No other source for benchmarking data comes close",
     "image": "features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Results-driven Awards",
+    "description": "All participants are eligible for performance-based bechmarking awards.",
     "image": "features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Simple Yet Detailed Reports",
+    "description": "When you need to understand and communicate performance.",
     "image": "features/noun_3d modeling_1885342.svg"
   }
 ]

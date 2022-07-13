@@ -1,1 +1,1 @@
-# render_hugo
+# A Site to Support Advanced Infrastructure Benchmarking

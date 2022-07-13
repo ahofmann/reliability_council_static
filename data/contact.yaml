@@ -1,8 +1,8 @@
 email: 'example@example.com'
 phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
+businessName: 'Reliability Council'
 address: |
-  123 Some Street
+  123 test street
   City, State 12345
 hours:
   - day: Monday

@@ -1,31 +1,26 @@
 ---
-title: 'Accounting'
+title: 'Benchmarking'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroHeading: 'Benchmarking'
+heroSubHeading: 'We provide benchmarking software that helps'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Our software makes it easy for you to perform analysis at multiple levels. Helping you collect data and providing results that you can use to communicate performance internally and externally
 
-## Ne verba patulosque numen vix libet
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## subscribe now
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Do you often wonder how you compare or which portions of your infrastructure are performing well compared to the others?
+
+1. Make instant comparisons to help communicate performance internally and externally
+2. perform analysis with ease
+3. Earn performance-based awards
+4. Convene with other similar providers to share best practices
 
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
 dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
