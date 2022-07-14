@@ -1,17 +1,15 @@
 ---
-title: 'Mergers'
+title: 'Awards'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroHeading: 'Awards'
+heroSubHeading: 'How do you know the level of your performance and how can you communicate it?'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Statistically calculated awards for exceptional performance are the way to go when communicating internally and externally.
 
 ## Ne verba patulosque numen vix libet
 

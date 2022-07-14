@@ -6,4 +6,4 @@ background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
 align: left
 ---
 
-With many patents and papers to our names, the investment in your infrastucture has never been easier. 
+With many patents and papers to our names, the investment in your infrastructure has never been easier. 
